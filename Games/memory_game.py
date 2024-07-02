@@ -1,7 +1,7 @@
 import time
 import random
-import utils
-import score
+import WOG_Project.utils as utils
+import WOG_Project.score as score
 
 def generate_sequence(difficulty):
     random_list = []
@@ -47,5 +47,3 @@ def play(difficulty):
         score.add_score(difficulty)
         won_is_true = True
     return won_is_true
-
-print('ok')

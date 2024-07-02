@@ -1,6 +1,6 @@
 import freecurrencyapi
 import random
-import score
+import WOG_Project.score as score
 
 secret_number = random.randint(1, 100)
 

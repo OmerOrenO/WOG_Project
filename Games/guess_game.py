@@ -1,6 +1,7 @@
 import random
-import score
-
+import WOG_Project.score as score
+# from WOG_Project.utils import *
+# from WOG_Project.Games.guess_game import *
 def generate_number(difficulty):
     return random.randint(0, difficulty)
 
