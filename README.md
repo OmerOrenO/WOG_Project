@@ -7,9 +7,6 @@ Welcome to the WOG_Project repository! This project is focused on building a sim
 -   [Introduction](#introduction)
 -   [Installation](#installation)
 -   [Usage](#usage)
--   [Project Structure](#project-structure)
--   [Contributing](#contributing)
--   [License](#license)
 
 ## Introduction
 
